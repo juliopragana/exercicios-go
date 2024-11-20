@@ -1,4 +1,4 @@
-# 📝 Exercícios do Curso de Programação em Go da Udemy
+# 📝 Exercícios do Curso de Programação em Go - Udemy
 
 Bem-vindo ao repositório de **Exercícios do Curso de Programação em Go da Udemy**! Este espaço foi criado para praticar e melhorar habilidades de programação da linguagem Go
 
